@@ -6,3 +6,6 @@ parameters shoukld be adjusted for better performance on the desired number of b
 scope:
 train the model to adjust parameters based on question type and passage type complete semantic analysis of it, in order to have the best result might as well train a neural network,
 to adjust parameters based on question analysis and passage analysis.
+
+V2:
+bert similarity and tfidf used instead of ngrams and tfidf
